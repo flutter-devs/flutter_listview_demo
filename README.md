@@ -1,6 +1,20 @@
-# flutter_listview_app
+# Flutter ListView Demo
 
-A new Flutter ListView application.
+A Flutter application to showcase how to use GridView.
+
+# Demo
+<img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/demo.gif">
+
+
+
+# Android Screen
+<img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/Android1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/android2.jpg">
+
+
+# iOS Screen
+<img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/iPhone1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/iphone2.jpg"> 
+
+
 
 ## Getting Started
 
