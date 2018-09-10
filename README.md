@@ -1,6 +1,6 @@
 # Flutter ListView Demo
 
-A Flutter application to showcase how to use GridView.
+A Flutter application to showcase how to use ListView.
 
 # Demo
 <img height="480px" src="https://github.com/flutter-devs/flutter_listview_demo/blob/master/screens/demo.gif">
